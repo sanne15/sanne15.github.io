@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Sanne15"
 description              : "This is the official website of my developments, including several discord bots"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog"
 repository               : "sanne15/blogcomments"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sion256"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I'm a student at Seoul National University, majoring in Computer Science and Engineering."
   location         : "Seoul, Korea"
   email            : "prasiona256@snu.ac.kr"
   links:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/sanne15"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
