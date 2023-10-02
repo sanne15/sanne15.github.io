@@ -5,7 +5,7 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "방명록"
-    url: /bang/
+    url: /방명록/
   # - title: "Sample Collections"
   #  url: /collection-archive/
   #- title: "Sitemap"
