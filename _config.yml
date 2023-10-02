@@ -110,9 +110,9 @@ author:
   location         : "Seoul, Korea"
   email            : "prasiona256@snu.ac.kr"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:prasiona256@snu.ac.kr"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:prasiona256@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sanne15.github.io/"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sanne15"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/minjae_.14/"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/minjae_.14/"
+      # url: "https://www.instagram.com/minjae_.14/"
 
 
 # Reading Files

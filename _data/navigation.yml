@@ -6,6 +6,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "방명록"
     url: /방명록/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Collections"
   #  url: /collection-archive/
   #- title: "Sitemap"
