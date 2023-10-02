@@ -1,5 +1,5 @@
 ---
-title: "디스코드 개발기"
+title: "기타 개발 일기"
 layout: archive
 permalink: categories/dev
 author_profile: true
