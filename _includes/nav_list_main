@@ -25,8 +25,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Dev" %}
-                        <li><a href="/categories/dev" class="">C++ STL & 표준 ({{category[1].size}})</a></li>
+                    {% if category[0] == "dev" %}
+                        <li><a href="/categories/dev" class="">기타 개발({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
