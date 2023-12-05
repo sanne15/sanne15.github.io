@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "[컴플리트 일본어] 웹 게임 동작의 원리"
 excerpt: "개발초안 1"
 

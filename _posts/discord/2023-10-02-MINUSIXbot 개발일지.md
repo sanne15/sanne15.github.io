@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "[Discord Bot] 디스코드 봇 좌충우돌 개발일지"
 excerpt: "디스코드 봇 개발을 시작해보자. 24시간 구동되는 봇을 만들기 위해 Replit을 활용해본다."
 
