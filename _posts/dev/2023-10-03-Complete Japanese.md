@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[컴플리트 일본어] 웹 게임 동작의 원리"
-excerpt: "개발초안 1"
+excerpt: "개발초안을 작성한다!"
 
 categories:
   - dev
