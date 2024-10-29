@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Sanne15"
 description              : "This is the official website of developments by Minjae Kim"
 url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # "/blog"
+baseurl                  : ""
 repository               : "sanne15/blogcomments"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -73,8 +73,8 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : 53HDA-qxiNKaLTjYhaCodZaUbmjLGox0Wede0p8ubZU
+bing_site_verification   : 
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
