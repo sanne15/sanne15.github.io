@@ -1,14 +1,14 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "태그별"
+    url: /tags/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "방명록"
     url: /방명록/
   - title: "Categories"
     url: /categories/
   # - title: "Sample Collections"
   #  url: /collection-archive/
-  - title: "Sitemap"
+  - title: "사이트맵"
     url: /sitemap/
