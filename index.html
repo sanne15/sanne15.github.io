@@ -1,5 +1,18 @@
 ---
-layout: home
+excerpt : " 팔 걷어올리고 근성으로 하는 개발 공부 "
+layout: archive
 sidebar_main: true
 author_profile: true
+entries_layout: grid
+header:
+    overlay_image: https://images.unsplash.com/photo-1727210348438-7f3bae35402a?q=80&w=1928&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
+
+<div class="grid__wrapper">
+    {% for post in paginator.posts %}
+    {% include archive-single.html type="grid" %}
+    {% endfor %}
+    </div>
+    {% include paginator.html %} 

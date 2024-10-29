@@ -1,9 +1,10 @@
 ---
-title: "기타 개발 일기"
+title: "기타 개발"
 layout: archive
 permalink: categories/dev
 author_profile: true
 sidebar_main: true
+types: posts
 ---
 
 

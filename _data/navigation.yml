@@ -12,3 +12,25 @@ main:
   #  url: /collection-archive/
   - title: "사이트맵"
     url: /sitemap/
+# Document links
+docs:
+  - title: DEV projects
+    children:
+      - title: "디스코드 봇개발"
+        url: /categories/Discord/
+      - title: "언어학습 웹게임 개발"
+        url: /categories/lang-convertio/
+      - title: "기타 개발"
+        url: /categories/dev/
+
+  - title: Algorithms
+    children:
+      - title: "알고리즘 문제해결"
+        url: /categories/algorithm/
+
+  - title: React
+    children:
+      - title: "리액트 웹개발"
+        url: /categories/react
+      - title: "리액트 네이티브"
+        url: /categories/react-native

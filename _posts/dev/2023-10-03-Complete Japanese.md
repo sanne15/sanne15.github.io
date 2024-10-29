@@ -8,6 +8,12 @@ categories:
 tags:
   - [jp, NLP, WebApp]
 
+header:
+    overlay_image: "/assets/images/japanese.png"
+    overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+    caption: "Reference: [**源氏物語**](http://james.3zoku.com/genji/genji01.html)"
+    teaser: "/assets/images/japanese.png"
+
 toc: true
 toc_sticky: true
  
@@ -40,3 +46,6 @@ Kanji de GO! 라는 일본 한자 독음 맞추기 게임에서 착안하여, �
 ## 실례 2. 작혼
 내가 본 완성도 높은 웹 브라우저에서 돌아가는 게임 중 하나는 작혼이다.
 작혼은 어떤 프로그램으로 개발되었을까?
+
+## 일본어 예문
+> 葵の上の容態が悪化の一途をたどる中、光源氏は見舞いを重ねるも、心はすでに六条御息所へと傾いていた。二人の女性の間で揺れ動く源氏の苦悩は、嫉妬に狂う御息所の生霊が葵の上を苦しめるという怪異へと発展する。御息所の怨念は深く、ついには葵の上は皇子を出産後、息絶えてしまうのだった。

@@ -1,12 +1,12 @@
 ---
-title: "디스코드 봇개발"
+title: "React"
 layout: archive
-permalink: categories/discord
+permalink: categories/react
 author_profile: true
 sidebar_main: true
 types: posts
 ---
 
 
-{% assign posts = site.categories.Discord %}
+{% assign posts = site.categories.react %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
