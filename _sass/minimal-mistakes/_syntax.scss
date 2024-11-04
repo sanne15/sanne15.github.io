@@ -41,9 +41,12 @@ figure.highlight {
     }
 
     /* code */
-    &.code,
+    &.code {
+      font-family: $codespace;
+    }
     &.rouge-code {
       padding-left: 1em;
+      font-family: $codespace;
     }
   }
 

@@ -150,7 +150,12 @@ button:focus {
 /* code */
 
 tt,
-code,
+code {
+  margin: 0;
+  padding: 0.5em;
+  font-family: $codespace;
+  line-height: 1.8;
+}
 kbd,
 samp,
 pre {

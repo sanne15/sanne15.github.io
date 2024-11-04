@@ -20,7 +20,7 @@ last_modified_at: 2024-10-28
 
 
 # 2. 참고중인 블로그 아카이브
-> 다양한 블로그의 글을 참고하면서 글을 쓰고 있는 중입니다. 출처 표기가 제대로 되지 않았다면 미리 죄송합니다.
+> 다양한 블로그의 글을 참고하면서 글을 쓰고 있는 중입니다. 출처 표기가 제대로 되지 않았다면 미리 사죄드립니다.
 
 * <a href="https://sun0te.github.io/blog/blog_custom/" target="_blank">index.html 그리드 수정</a>
 * <a href="https://ansohxxn.github.io/blog/category/" target="_blank">sidebar 게시글 개수 추가하기</a>
