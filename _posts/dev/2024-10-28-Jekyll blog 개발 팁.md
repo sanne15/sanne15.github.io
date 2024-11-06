@@ -48,3 +48,11 @@ last_modified_at: 2024-11-06
   * 해결책 : 그냥 `[텍스트](하이퍼링크)` 뒤에 `{:target="_blank"}` 붙이면 된다.
 * 태그/카테고리/업데이트 뒤에 글 내용이 너무 빠르게 와요...
   * 해결책 : `_include/page__date.html` 마지막에 `<br>`하나만 넣어주면 됩니다.
+
+
+
+## 계속해서 참고할만한 블로그
+블로그에 액세스할 수 없는 경우, 댓글로 알려주시기 바랍니다.
+{: .notice--warning}
+
+* [@eona1301님의 블로그](https://velog.io/@eona1301/Github-Blog-Jekyll-minimal-mistakes){:target="_blank"}
