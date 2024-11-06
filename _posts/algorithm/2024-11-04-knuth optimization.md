@@ -10,9 +10,15 @@ tags:
 
 toc: true
 toc_sticky: true
+
+header:
+    overlay_image: "/assets/images/splash_images/knuth.png"
+    overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+    caption: "Reference: [***Google Scholar***](https://scholar.google.com/citations?hl=en&user=t0yrrzQAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=matthewkim1034%40gmail.com&gmla=AL3_zihXeLI75puPmDPM-d_mZ5E-OC33RChJBJbXPtXYd5m-vhIpAwJzsN6e42i2vyPDpBiEE4EwFYzC45P2n6hfULkBs6LezrHjzb2NNQkWWS_63P5gcRjCY8pPOXOSVDbRsl42IQhRVOUezAEZHVxp-y2t32DGvszXFq24fkM7PFz3S-S0QypmnfNJSL4l4YJ_WL9vztJd1T6P7qdPzSMSOQ8BWhEo2jdh-K0Lf8RCX2JFXyTFww)"
+    teaser: "/assets/images/splash_images/knuth.png"
  
 date: 2024-11-03
-last_modified_at: 2024-11-04
+last_modified_at: 2024-11-06
 ---
 
 # Knuth's Optimization
@@ -114,5 +120,6 @@ int main() {
 - [블로그1](https://justicehui.github.io/hard-algorithm/2019/01/02/knuthOpt/)
 - [블로그2, 오류 있음](https://suri78.tistory.com/16)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/dynamic_programming/knuth-optimization.html)
+- [Efficient DP Using Quadrangle Inequalities, F. Frances Yao](https://dl.acm.org/doi/pdf/10.1145/800141.804691)
 
 
