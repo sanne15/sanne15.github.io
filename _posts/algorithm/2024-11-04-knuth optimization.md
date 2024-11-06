@@ -21,7 +21,7 @@ last_modified_at: 2024-11-04
 아래 조건을 만족하는 상황에서 이 테크닉을 사용할 수 있다.
 ***
 ### 1. 점화식
-$$ DP[i][j]=min_{i≤k<j}​DP[i][k]+DP[k+1][j]+C[i][j] $$
+$$ DP[i][j]=min_{i≤k<j}​(DP[i][k]+DP[k][j])+C[i][j] $$
 
 ### 2. C의 조건
 - Quadrangle inequality : $$ C[a][c] + C[b][d] ≤ C[a][d] + C[b][c] (a ≤ b ≤ c ≤ d) $$
