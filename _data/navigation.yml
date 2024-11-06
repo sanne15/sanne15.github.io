@@ -14,6 +14,10 @@ main:
     url: /sitemap/
 # Document links
 docs:
+  - title: Notices
+    children:
+      - title: "CV"
+        url: /categories/notice
   - title: DEV projects
     children:
       - title: "디스코드 봇개발"
