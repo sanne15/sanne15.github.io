@@ -53,9 +53,16 @@
 
 .page__footer-follow {
   ul {
+    display: flex; /* ul을 flex container로 만듭니다. */
+    justify-content: space-between; /* 아이템들을 양쪽 끝으로 정렬합니다. */
+    align-items: center; /* 아이템들을 수직 중앙 정렬합니다. */
     margin: 0;
     padding: 0;
     list-style-type: none;
+  }
+
+  ul li:last-child { /* 마지막 li (개인정보처리방침)에만 적용 */
+    margin-left: auto; /* 왼쪽 margin을 auto로 설정하여 오른쪽으로 밀착시킵니다. */
   }
 
   li {
