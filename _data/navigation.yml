@@ -1,17 +1,16 @@
 # main links
 main:
-  - title: "태그별"
+  - title: "Tags"
     url: /tags/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "방명록"
+    url: /notice/About-Me/
+  - title: "Guestbook"
     url: /방명록/
   - title: "Categories"
     url: /categories/
-  # - title: "Sample Collections"
-  #  url: /collection-archive/
-  - title: "사이트맵"
+  - title: "Sitemap"
     url: /sitemap/
+
 # Document links
 docs:
   - title: Notices
