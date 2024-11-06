@@ -10,9 +10,15 @@ tags:
 
 toc: true
 toc_sticky: true
- 
+
+header:
+    overlay_image: "/assets/images/discord_splash.png"
+    overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
+    caption: "Reference: [***Discord Homepage***](https://discord.com)"
+    teaser: "/assets/images/discord_splash.png"
+
 date: 2023-10-02
-last_modified_at: 2023-12-07
+last_modified_at: 2024-11-06
 ---
 
 # 1. 디스코드 봇이란 무엇인가?
