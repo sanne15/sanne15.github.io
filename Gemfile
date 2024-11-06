@@ -1,8 +1,11 @@
 source "https://rubygems.org"
-gem 'jekyll-sass-converter', '~> 1.0'
+group :jekyll_plugins do
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-include-cache'
+    gem 'jekyll-sass-converter', '~> 1.0'
+    gem "jekyll-sitemap"
+end
 gem 'github-pages'
-gem 'jekyll-include-cache'
 gem "webrick", "~> 1.7"
 gem 'tzinfo-data'
-gem 'jekyll-seo-tag'
 gemspec
