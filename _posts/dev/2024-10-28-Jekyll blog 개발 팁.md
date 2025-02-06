@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true
  
 date: 2024-10-28
-last_modified_at: 2024-11-06
+last_modified_at: 2025-02-06
 ---
 
 # 개요
@@ -35,6 +35,9 @@ last_modified_at: 2024-11-06
 * 마크다운 문법을 잘 정리한 블로그를 보면서 학(學)을,  
   직접 블로그에 적용시켜보면서 습(習)을 해야한다.  
   Learning By Doing!!
+
+# 따라해보고 싶은 요소들
+* 정보성 글의 마지막에 [퀴즈를 삽입](https://codelabs-markdown.web.app/sections/03){:target="_blank"}하고 싶다. 이해에 확실한 도움을 줄 수 있다고 생각한다.
 
 # FAQ
 > 다양한 블로그의 글을 참고하면서 글을 쓰고 있는 중입니다. 
