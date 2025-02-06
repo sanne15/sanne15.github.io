@@ -37,3 +37,10 @@ docs:
         url: /categories/react
       - title: "리액트 네이티브"
         url: /categories/react-native
+
+  - title: Math
+    children:
+      - title: "위상수학"
+        url: /categories/topology
+      - title: "현대대수학"
+        url: /categories/morden_algebra
