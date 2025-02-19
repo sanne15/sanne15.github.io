@@ -7,7 +7,7 @@
   <p class="oxq-title"><strong>[O/X Quiz]</strong> {{ question }}</p>
   <div>
     {% for option in options %}
-      <span class="btn-ox {% if forloop.index0 == answer %}selected answer{% endif %}">{{ option }}</span>
+      <span class="btn-ox {% if forloop.index0 == answer %}answer{% endif %}">{{ option }}</span>
     {% endfor %}
   </div>
   <p class="oxq-hint" style="display: none;">힌트 : {{ hint }}</p>
