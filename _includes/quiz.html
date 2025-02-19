@@ -1,0 +1,19 @@
+{% assign question = include.question %}
+{% assign options = include.options | split: ',' %}
+{% assign answer = include.answer | minus: 1 %}
+{% assign hint = include.hint | default: "힌트는 없습니다 ;)" %}
+
+<div class="oxq-box">
+  <p class="oxq-title"><strong>[O/X Quiz]</strong> {{ question }}</p>
+  <div>
+    {% for option in options %}
+      <span class="btn-ox {% if forloop.index0 == answer %}selected answer{% endif %}">{{ option }}</span>
+    {% endfor %}
+  </div>
+  <p class="oxq-hint" style="display: none;">힌트 : {{ hint }}</p>
+  <p class="oxq-action-box">
+    <span class="btn-hint">힌트</span>
+    <span class="btn-ans">정답확인</span>
+  </p>
+  <div class="oxq-check-mark" style="display: none;">O</div>
+</div>

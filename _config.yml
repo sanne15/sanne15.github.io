@@ -276,7 +276,10 @@ compress_html:
   ignore:
     envs: development
 
-
+# etc
+head_scripts:
+  - /assets/js/quiz.js
+  
 # Defaults
 defaults:
   # _posts

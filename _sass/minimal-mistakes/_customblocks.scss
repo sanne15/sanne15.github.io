@@ -1,0 +1,70 @@
+.oxq-box {
+    position: relative;
+    border: 1px dotted #ffffff;
+    padding: 0 20px;
+}
+
+.oxq-box .oxq-check-mark {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    font-size: 160px;
+    font-weight: 700;
+    color: red;
+    z-index: 1;
+}
+
+.oxq-box .btn-ans, .oxq-box .btn-hint {
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 24px;
+    padding: 12px 80px;
+    cursor: pointer;
+}
+
+.oxq-box .btn-ox {
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: #919191;
+    border-radius: 5px;
+    width: 30%;
+    margin-left: 1%;
+    padding: 16px 0;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+.oxq-box .btn-ans {
+    background: #eee;
+    z-index: 2;
+    position: relative;
+}
+
+
+.oxq-box .btn-hint {
+    background: #eee;
+    z-index: 2;
+    position: relative;
+}
+
+
+.oxq-action-box {
+    text-align: right;
+}
+
+.oxq-box .btn-ox.selected {
+    background-color: #001f3f; // 군청색
+    color: #ffffff; // 흰색
+}
+
+.oxq-box .btn-hint, .oxq-box .btn-ans {
+    background: #eee;
+    color: #000; // 검정색
+}
